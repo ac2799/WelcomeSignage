@@ -1,0 +1,8 @@
+__pycache__
+venv
+
+# This file is a proprietary MAC OS system file holds attributes/meta-data about the folder it resides in & DS_Store: Desktop Services Store
+.DS_Store
+
+.vscode
+.idea
